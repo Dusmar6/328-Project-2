@@ -1,5 +1,6 @@
-package Project2;
-
+/**
+ * Addition object
+ */
 public class Plus extends Operator {
 
     public Plus() {

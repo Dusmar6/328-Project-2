@@ -1,5 +1,6 @@
-package Project2;
-
+/**
+ * Exponentiation object
+ */
 public class Power extends Operator {
 
     public Power() {

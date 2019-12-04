@@ -1,5 +1,6 @@
-package Project2;
-
+/**
+ * Multiplication object
+ */
 public class Times extends Operator {
 
     public Times() {

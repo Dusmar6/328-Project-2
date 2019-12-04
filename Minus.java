@@ -1,5 +1,6 @@
-package Project2;
-
+/**
+ * Subtraction object
+ */
 public class Minus extends Operator {
 
     public Minus() {

@@ -1,5 +1,6 @@
-package Project2;
-
+/**
+ * Division object
+ */
 public class Divide extends Operator {
 
     public Divide() {
