@@ -1,0 +1,5 @@
+Greyson Cabrera:
+Created the Main.java file particularly the menu and infix to postfix converter. Also created the int evaluate() in the ParseTree.java file
+
+Dustin Martin: 
+Created the postfix arraylist to parsetree converter. Also created the multiple objects of Operator.java
