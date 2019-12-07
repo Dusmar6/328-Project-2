@@ -1,3 +1,6 @@
+// Greyson Cabrera 014121118
+// Dustin Martin 015180085
+
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Stack;
