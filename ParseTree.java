@@ -1,3 +1,6 @@
+// Greyson Cabrera 014121118
+// Dustin Martin 015180085
+
 public class ParseTree {
 
     private Operator root;// the base value
